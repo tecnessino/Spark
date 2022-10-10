@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bb1b741-48e7-497e-a128-2c5181cabf99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Editor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Editor/src/main/java/org/spark/editor/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/actor/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/actor/ActorModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/display/DisplayManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/light/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/material/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/math/Matrix4f.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/math/MatrixUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/math/VectorUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/mesh/Mesh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/mesh/MeshLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/mesh/MeshRender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/shader/ShaderProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/shader/Shaders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/shader/impl/RenderShader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/shader/impl/SkyboxShader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/skybox/Skybox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spark/texture/Texture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Spark/Shaders/MaterialRender.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Spark/Shaders/MaterialRender.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Spark/Shaders/MaterialRender2.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Spark/Shaders/MaterialRender2.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Spark/Shaders/Skybox.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Spark/Shaders/Skybox.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mani.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestGame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FqerRjQNbKnTf2UNnMXYlrSoRc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Spark/native/OpenAL64.dll&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Mani">
+    <configuration name="Editor" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.spark.editor.Editor" />
+      <module name="Editor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mani" />
+      <module name="Spark" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Editor" />
+      <item itemvalue="Application.Mani" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mani" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bb1b741-48e7-497e-a128-2c5181cabf99" name="Changes" comment="" />
+      <created>1665224241974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665224241974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Spark$Mani.ic" NAME="Mani Coverage Results" MODIFIED="1665302104955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
